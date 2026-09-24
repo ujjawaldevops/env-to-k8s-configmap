@@ -18,7 +18,7 @@ A simple Python utility that converts `.env` files into Kubernetes ConfigMap YAM
 
 1. Clone the repository:
 ```bash
-git clone git@github.com:UjjawalGautam37/env-to-k8s-configmap.git
+git clone https://github.com/ujjawaldevops/env-to-k8s-configmap.git
 cd env-to-k8s-configmap
 ```
 
